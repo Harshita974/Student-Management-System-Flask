@@ -1,6 +1,4 @@
 Project: Student Management System (Task 3 Completion)
-Developer: [Your Name]
-Date: 21-04-2026
 
 1. Project Overview
 This is a Full-Stack Student Management System built using Flask and SQLite. This version completes Task 3 by implementing full CRUD (Create, Read, Update, Delete) functionality for managing student records.
